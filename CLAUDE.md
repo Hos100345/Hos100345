@@ -26,7 +26,7 @@
 | `tfillin-admin` | שרת ניהול לאתר התפילין | Vercel | `README.md` |
 | `shimira-beit-hogla` | שיבוץ שומרים (Apps Script) | Google Apps Script | `README.md` |
 | `BD` | ספירה לאחור ליום הולדת | — | — |
-| `Hos100345` | הריפו הזה — המפה | — | — |
+| `Hos100345` | הריפו הזה — המפה + `VISION.md` (החזון העסקי והכיוון של המוצרים) | — | — |
 
 ## תשתית משותפת
 - **Supabase אחד** לאתר, לעיצובישי ולמערכת הניהול: project `sccivxenkyzxolpraexf`. גלריית האתר (`site_gallery` + bucket `site-gallery`) נערכת מ-`hoshaya-quotes` ומוצגת ב-`Hos100345.github.io` — שינוי בקטגוריות נוגע בשניהם (ראו README של quotes).
